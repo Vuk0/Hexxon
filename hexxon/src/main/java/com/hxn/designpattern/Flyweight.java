@@ -1,8 +1,5 @@
 package com.hxn.designpattern;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class Flyweight {
 
 // The flavors ordered.
